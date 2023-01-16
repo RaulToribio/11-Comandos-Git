@@ -1,5 +1,3 @@
-# 11-Comandos-Git
-
 # Material Necesario
 
 - [Instalar Git](https://github.com/RaulToribio/10-Instalar-Git)
